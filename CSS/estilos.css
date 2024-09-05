@@ -1,0 +1,132 @@
+.cj1
+{
+    background-color: orange;
+    width: 200px; height: 200px;
+    position: absolute;
+    left: 500px;
+    top: 50px;
+}
+.cj1-1
+{
+    background-color: blue;
+    width: 50px; height: 50px;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    
+}
+.cj1-2
+{
+    background-color: blue;
+    width: 50px; height: 50px;
+    position: absolute;
+    left: 120px;
+    top: 40px;
+}
+.cj1-3
+{
+    background-color: yellow;
+    width: 50px; height: 50px;
+    position: absolute;
+    left: 80px;
+    top: 100px;
+    border-radius: 25px;
+}
+.cj1-4
+{
+    background-color: blue;
+    width: 130px; height: 10px;
+    position: absolute;
+    left: 40px;
+    top: 160px;
+}
+.cj2
+{
+    background-color: orange;
+    width: 50px; height: 50px;
+    position: absolute;
+    left: 580px;
+    top: 250px;
+}
+.cj3 
+{
+    background-color: orange;
+    width: 200px; height: 200px;
+    position: absolute;
+    left: 500px;
+    top: 300px;
+}
+.cj3-1
+{
+    background-color: black;
+    width: 150px; height: 40px;
+    position: absolute;
+    left: 30px;
+    top: 40px;
+}
+.cj3-2
+{
+    background-color: black;
+    width: 150px; height: 40px;
+    position: absolute;
+    left: 30px;
+    top: 110px;
+}
+.cj4 
+{
+    background-color: orange;
+    width: 160px; height: 20px;
+    position: absolute;
+    left: 520px;
+    top: 500px;
+}
+.cj5
+{
+    background-color: orange;
+    width: 300px; height: 150px;
+    position: absolute;
+    left: 450px;
+    top: 520px;
+}
+.cj5-1
+{
+    background-color: black;
+    width: 50px; height: 100px;
+    position: absolute;
+    left: 50px;
+    top: 20px;
+}
+.cj5-2
+{
+    background-color: black;
+    width: 50px; height: 100px;
+    position: absolute;
+    left: 130px;
+    top: 20px;
+}
+.cj5-3
+{
+    background-color: black;
+    width: 50px; height: 100px;
+    position: absolute;
+    left: 210px;
+    top: 20px;
+}
+.cj6
+{
+    background-color: black;
+    width: 150px; height: 10px;
+    position: absolute;
+    left: 370px;
+    top: 350px;
+    transform: rotate(40deg);
+}
+.cj7
+{
+    background-color: black;
+    width: 150px; height: 10px;
+    position: absolute;
+    left: 680px;
+    top: 350px;
+    transform: rotate(140deg);
+}
